@@ -1,0 +1,11 @@
+Field,Type,Null,Key,Default,Extra
+entry_id,int(11),NO,PRI,NULL,auto_increment
+employee_id,int(11),NO,,NULL,
+state,varchar(2),YES,,NULL,
+date_of_birth,datetime,YES,,NULL,
+age,int(11),YES,,NULL,
+pay_rate,"decimal(4,2)",YES,,NULL,
+vacation_accrued,int(11),YES,,NULL,
+sick_days,int(11),YES,,NULL,
+first_name,varchar(45),YES,,NULL,
+last_name,varchar(45),YES,,NULL,

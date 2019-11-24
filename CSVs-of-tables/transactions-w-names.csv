@@ -1,0 +1,11 @@
+transaction_id,product,customer_id,customer_name,quantity,cost,total_cost
+1,Wine,1,Tyrion,5,7.89,39
+2,"Crossbow Darts",2,Joffrey,50,3,150
+3,Watermelons,3,Gregor,250,1.45,363
+4,"Door Handles",4,Hodor,3,25.34,76
+5,Wheelbarrows,4,Hodor,1,56.78,57
+6,"Knitting Kit",5,Sansa,1,6.73,7
+7,Books,1,Tyrion,34,10.45,355
+8,"Wolf Mace",2,Joffrey,12,7.09,85
+9,"Hired Help",1,Tyrion,4,500.5,2002
+10,Dresses,5,Sansa,32,70.52,2257
