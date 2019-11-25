@@ -1,0 +1,16 @@
+unit_id,applicant_id,application_date,app_status
+1273P,1031,2019-09-12,pending
+1273P,1036,2019-09-12,pending
+855ST,1039,2019-09-12,accepted
+717WH,1039,2019-09-13,accepted
+123MA,1031,2019-09-15,pending
+16HAR,1032,2019-09-15,denied
+16HAR,1038,2019-09-15,accepted
+489SP,1038,2019-09-15,pending
+123MA,1035,2019-09-16,pending
+123MA,1036,2019-09-16,denied
+59ORA,1040,2019-09-17,pending
+2320W,1031,2019-09-17,denied
+59ORA,1031,2019-09-19,pending
+2320W,1035,2019-09-19,pending
+NULL,1034,2019-09-20,pending

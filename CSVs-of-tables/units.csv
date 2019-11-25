@@ -1,0 +1,11 @@
+id,address,city,bedrooms,bathrooms,rent,on_market
+123MA,"123 Main St.",Springfield,3,2,2800,2019-09-12
+1273P,"1273 Peacock Ln.",Ferryville,2,2,1600,2019-09-11
+16HAR,"16 Harper Ave.",Springfield,NULL,1,1800,2019-08-31
+2320W,"2320 Wayne St.",Montview,2,2,3500,2019-09-16
+489SP,"429 Spotted Trail",Ferryville,1,1,900,2019-09-12
+59HOL,"59 Holly Court",Montview,2,1,2000,2019-09-15
+59ORA,"59 Orange Alley",Montview,3,2,4200,2019-09-15
+634VA,"634 Valentino Ave.",Ferryville,2,1,1200,2019-09-20
+717WH,"717 Whistler Rd.",Springfield,4,2,3800,2019-09-12
+855ST,"855 Stewart St.",Montview,4,1,5000,2019-09-09
