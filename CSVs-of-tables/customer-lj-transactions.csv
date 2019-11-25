@@ -1,0 +1,13 @@
+customer_id,customer_name,product,quantity
+1,Tyrion,Wine,5
+1,Tyrion,Books,34
+1,Tyrion,"Hired Help",4
+2,Joffrey,"Crossbow Darts",50
+2,Joffrey,"Wolf Mace",12
+3,Gregor,Watermelons,250
+4,Hodor,"Door Handles",3
+4,Hodor,Wheelbarrows,1
+5,Sansa,"Knitting Kit",1
+5,Sansa,Dresses,32
+6,Cersei,NULL,NULL
+7,Bran,NULL,NULL
