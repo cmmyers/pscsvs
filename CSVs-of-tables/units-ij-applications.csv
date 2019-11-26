@@ -1,0 +1,15 @@
+id,address,applicant_id,application_date,app_status
+123MA,"123 Main St.",1031,2019-09-15,pending
+123MA,"123 Main St.",1035,2019-09-16,pending
+123MA,"123 Main St.",1036,2019-09-16,denied
+16HAR,"16 Harper Ave.",1032,2019-09-15,denied
+1273P,"1273 Peacock Ln.",1031,2019-09-12,pending
+1273P,"1273 Peacock Ln.",1036,2019-09-12,pending
+16HAR,"16 Harper Ave.",1038,2019-09-15,accepted
+489SP,"429 Spotted Trail",1038,2019-09-15,pending
+59ORA,"59 Orange Alley",1040,2019-09-17,pending
+59ORA,"59 Orange Alley",1031,2019-09-19,pending
+855ST,"855 Stewart St.",1039,2019-09-12,accepted
+717WH,"717 Whistler Rd.",1039,2019-09-13,accepted
+2320W,"2320 Wayne St.",1031,2019-09-17,denied
+2320W,"2320 Wayne St.",1035,2019-09-19,pending
