@@ -1,0 +1,10 @@
+customer_id,customer_name,city_id,city
+1,Tyrion,101,"Casterly Rock"
+2,Joffrey,102,"Kings Landing"
+3,Gregor,102,"Kings Landing"
+6,Cersei,102,"Kings Landing"
+4,Hodor,103,Winterfell
+5,Sansa,103,Winterfell
+7,Bran,103,Winterfell
+NULL,NULL,104,Dorne
+NULL,NULL,105,"High Garden"

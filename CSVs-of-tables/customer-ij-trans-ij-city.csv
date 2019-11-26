@@ -1,0 +1,11 @@
+customer_name,customer_id,transaction_id,product,quantity,cost,total_cost,city
+Tyrion,1,1,Wine,5,7.89,39,"Casterly Rock"
+Joffrey,2,2,"Crossbow Darts",50,3,150,"Kings Landing"
+Gregor,3,3,Watermelons,250,1.45,363,"Kings Landing"
+Hodor,4,4,"Door Handles",3,25.34,76,Winterfell
+Hodor,4,5,Wheelbarrows,1,56.78,57,Winterfell
+Sansa,5,6,"Knitting Kit",1,6.73,7,Winterfell
+Tyrion,1,7,Books,34,10.45,355,"Casterly Rock"
+Joffrey,2,8,"Wolf Mace",12,7.09,85,"Kings Landing"
+Tyrion,1,9,"Hired Help",4,500.5,2002,"Casterly Rock"
+Sansa,5,10,Dresses,32,70.52,2257,Winterfell

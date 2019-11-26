@@ -1,0 +1,6 @@
+customer_name,SUM(total_cost)
+Tyrion,2396
+Joffrey,235
+Gregor,363
+Hodor,133
+Sansa,2264
