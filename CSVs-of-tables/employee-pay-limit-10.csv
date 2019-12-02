@@ -1,0 +1,11 @@
+employee_id,pay_rate,last_name,first_name,department,marital_status,sex,age
+602000312,26.00,Lindsay,Leonara,IT/IS,Single,Female,29
+706006285,21.00,Dickinson,Geoff,Production,Single,Male,35
+710007401,22.00,Kinsella,Kathleen,Production,Married,Female,44
+710007555,17.00,Rose,Ashley,Production,Separated,Female,43
+711007713,20.50,Smith,"Leigh Ann","Admin Offices",Married,Female,30
+803009012,23.00,Ferreira,Violeta,Production,Single,Female,31
+807010161,15.20,Sewkumar,Nori,Production,Single,Female,42
+808010278,30.20,Simard,Kramer,IT/IS,Married,Male,47
+812011761,55.00,Ozark,Travis,Sales,Single,Male,35
+903013071,24.00,Kirill,Alexandra,Production,Married,Female,47
