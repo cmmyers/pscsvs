@@ -1,0 +1,6 @@
+fname,"IF(age>=18, "Adult", "Child")"
+Melanie,Adult
+Carlos,Adult
+Jamal,Child
+Serena,Adult
+Henry,Child
